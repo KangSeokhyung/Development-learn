@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  Git 정리 시작
 
 <!--
 **KangSeokhyung/KangSeokhyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
