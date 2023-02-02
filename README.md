@@ -2,6 +2,7 @@
 
 Git Gub 정리 방법 습득
 
+세미 아이콘 사이트 : https://simpleicons.org/
 <!--
 **KangSeokhyung/KangSeokhyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
