@@ -1,5 +1,7 @@
 ### Hi there 👋  Git 정리 시작
 
+Git Gub 정리 방법 습득
+
 <!--
 **KangSeokhyung/KangSeokhyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
